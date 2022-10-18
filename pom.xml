@@ -10,7 +10,6 @@
 
   <groupId>rajesh</groupId>
   <artifactId>maven-project-rajesh</artifactId>
-  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>maven-Project</name>
   
